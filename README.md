@@ -2,7 +2,7 @@
 
 
 
-## I'm a Student, Developer, Data Scientist soon o be!!
+## I'm a Student, Developer, Data Scientist soon to be!!
 
 
 - 🌱 I’m currently learning to be a data scientist
