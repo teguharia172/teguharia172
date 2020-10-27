@@ -46,6 +46,7 @@
 
 </details>
 
+![Teguhtop_lang](https://github-readme-stats.vercel.app/api/top-langs/?username=teguharia172&layout=compact&hide_border=true&theme=vue)| 
 
 
 [instagram]: https://www.instagram.com/teguharia172
