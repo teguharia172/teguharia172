@@ -5,9 +5,9 @@
 ## I'm a Student, Developer, Data Analyst!
 
 
-- 🌱 I’m currently learning to be a data scientist
+- 🌱 I’m currently learning to predict stonks & crypto
 - 👯 I’m looking to collaborate with other data scientists
-- 🥅 2020 Goals to post more on github
+- 🥅 2021 Goals to post more on github
 
 
 
