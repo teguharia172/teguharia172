@@ -41,7 +41,6 @@
 
 
 
- <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=teguharia172&show_icons=true&hide_border=true" />
 
 ![Teguhtop_lang](https://github-readme-stats.vercel.app/api/top-langs/?username=teguharia172&layout=compact&hide_border=true&theme=vue)| 
 
