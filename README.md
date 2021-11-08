@@ -2,12 +2,12 @@
 
 
 
-## I'm a Student, Developer, Data Analyst!
+## I'm a Student, Data Analyst, Developer!
 
 
-- 🌱 I’m currently learning to predict stonks & crypto
-- 👯 I’m looking to collaborate with other data scientists
-- 🥅 2021 Goals to post more on github
+- 🌱 Working on analyzing how to serve the best content out there at [vidio.com](vidio.com)
+- 👯 I’m looking to collaborate with other data professional
+- 🥅 2021 Goal is to learn more about data analysis specializing in data visualization
 
 
 
