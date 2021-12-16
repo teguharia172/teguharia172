@@ -8,6 +8,7 @@
 - 🌱 Working on analyzing how to serve the best content out there at [vidio.com](vidio.com)
 - 👯 I’m looking to collaborate with other data professional
 - 🥅 2021 Goal is to learn more about data analysis specializing in data visualization
+- 📚 Currenly learning about data modeling to create a faster, more interactive & robust dashboard
 
 
 
