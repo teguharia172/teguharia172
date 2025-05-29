@@ -2,13 +2,14 @@
 
 
 
-## I'm a Student, Data Analyst, Developer!
+## I'm a Student, Data Analyst, Developer, Entrepreneur!
 
 
-- 🌱 Working on analyzing how to serve the best content out there at [vidio.com](vidio.com)
-- 👯 I’m looking to collaborate with other data professional
--
-- 📚 Currenly learning about data modeling to create a faster, more interactive & robust dashboard
+- 🌱 The past 4 years, most of my work was at [vidio.com](vidio.com), from creating datasets, dashboards, analyzing data, creating segments, etc
+- 🍙 Director/owner of a quick service premium takeaway restaurants [aburikitchen](https://instagram.com/aburi.kitchen)
+- 👯 I’m looking to collaborate with other professionals
+- 📚 Continuously learning about data and entrepreneurship
+- Soon to be NUS Student
 
 
 
