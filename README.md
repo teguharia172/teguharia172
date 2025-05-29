@@ -5,7 +5,7 @@
 ## I'm a Student, Data Analyst, Developer, Entrepreneur!
 
 
-- 🌱 The past 4 years, most of my work was at [vidio.com](vidio.com), from creating datasets, dashboards, analyzing data, creating segments, etc
+- 🌱 The past 4 years, most of my work was at [vidio.com](https://www.vidio.com/), from creating datasets, dashboards, analyzing data, creating segments, etc
 - 🍙 Director/owner of a quick service premium takeaway restaurants [aburikitchen](https://instagram.com/aburi.kitchen)
 - 👯 I’m looking to collaborate with other professionals
 - 📚 Continuously learning about data and entrepreneurship
